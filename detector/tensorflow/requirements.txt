@@ -3,3 +3,4 @@ Flask
 gunicorn
 Pillow
 Requests
+numpy>=1.22.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
